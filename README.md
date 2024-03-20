@@ -1,4 +1,4 @@
-# Terraform Template Repository README
+# Terraform Template Repository for Single Environment Deployment
 
 This repository serves as a template for deploying infrastructure using Terraform in a single environment setup. Below is an overview of the directory structure and the purpose of each file:
 
